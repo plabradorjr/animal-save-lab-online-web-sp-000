@@ -4,9 +4,9 @@ html {
 
 #ring {
   background: url(../images/water-ring.png) no-repeat top left;
-  width: 1000px;
+  width: 1200px;
   height: 750px;
-  position: absolute;
+  position: relative;
   top: -10px;
   left: -8px;
   z-index: 1;
